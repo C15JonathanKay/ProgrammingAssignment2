@@ -1,5 +1,5 @@
 ## Solve and cache inverse of square matrix
-## C15JonathanKay
+## C15JonathanKay; Doc: khaister
 
 ## Initializes funciton used to cache. Obtains raw matrix.
 
